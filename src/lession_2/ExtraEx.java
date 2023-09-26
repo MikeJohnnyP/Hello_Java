@@ -171,6 +171,7 @@ public class ExtraEx {
         else
         return Math.max(num%10, maxOfInteger(num/10));
     }
+    //Tìm chữ số bé nhất của số nguyên dương
     public static int minOfInteger(int num){
         if(num==0)
         return 999999999;
