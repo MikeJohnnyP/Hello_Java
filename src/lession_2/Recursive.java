@@ -1,6 +1,7 @@
 package lession_2;
 
 public class Recursive {
+    //Giai thua
     public static int factorial(int n) {
         if (n == 0) {
             throw new IllegalArgumentException();
@@ -12,7 +13,7 @@ public class Recursive {
         }
 
     }
-
+// thap sang nhi
     public static String decToBinary(int bi) {
         if (bi == 0) {
             throw new IllegalArgumentException();
@@ -25,7 +26,7 @@ public class Recursive {
 
     
     
-
+// nhi sang thap
     public static int biToDec2(String binary) {//Chưa giải xong
         if (binary.length() == 1) {
             return 1;
@@ -57,7 +58,7 @@ public class Recursive {
         // Trả về kết quả
         return decimal;
     }
-
+    public static String TowerOfHanoi(int x, String)
     // Test class
     public static void main(String[] args) {
         int x = 10;

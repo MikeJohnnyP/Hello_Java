@@ -181,23 +181,10 @@ public class ExtraEx {
 
 
     public static void main(String[] args) {
-        // System.out.println(decimalToBinary(65));
-        // decimalToBinary2(-18);
-        checkDivisible(-18);
-        checkDivisible(-18);
-        checkDivisible3Not9(67);
-        checkDivisible3Not9Ver2(67);
-        System.out.println(countInteger(9000));
-        System.out.println(sumOfDigit(67));
-        System.out.println(productDigit(99));
-        System.out.println(countOddNumber(6789));
-        System.out.println(sumOfEvenNumber(78910));
-        System.out.println(productOfOddNumber(6789));
-        System.out.println(reverseNumber(6789));
-        System.out.println(maxOfInteger(6789));
-        System.out.println(minOfInteger(6789));
-        
-
+        int[] test = {678, 53, 2};
+        for (int i = 0; i < test.length; i++) {
+            System.out.println(minOfInteger(test[i]));            
+        }
     }
 
 }

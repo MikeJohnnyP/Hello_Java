@@ -8,7 +8,10 @@ public class Fibonacci {
        return fibo(x-1)+fibo(x-2); 
     }
     public static void main(String[] args) {
-        System.out.println(fibo(8));
+        int[] test = {3, 20, 11};
+        for (int i = 0; i < test.length; i++) {
+            System.out.println(fibo(test[i]));            
+        }
     }
 
     
