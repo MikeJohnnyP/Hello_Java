@@ -58,7 +58,7 @@ public class Recursive {
         // Trả về kết quả
         return decimal;
     }
-    public static String TowerOfHanoi(int x, String)
+  
     // Test class
     public static void main(String[] args) {
         int x = 10;
