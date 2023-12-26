@@ -1,0 +1,7 @@
+01	Hoang Thai Hau	31	ST01
+02	Duong Qa	41	ST02
+03	Co Co	51	ST03
+04	Tieu Phong	56	ST03
+05	Su Hoa Long	63	ST04
+06	Hoang Dung	89	ST05
+07	Hong That Cong	78	ST07

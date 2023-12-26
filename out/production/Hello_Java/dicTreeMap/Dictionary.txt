@@ -1,0 +1,6 @@
+word	(N) chữ, lời, tiếng;(v) diễn tả
+Exception	(N) bỏ ra, để riêng ra, không thừa nhận;
+Door	(N) Cánh cửa;
+Run	(v) chạy, bay màu, phai màu, rượt theo;(N) quãng đường, cho chạy
+Huge	(adj) to lớn, khổng lồ, rất nhiều;
+
